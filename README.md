@@ -1,3 +1,14 @@
+## Img 
+![Laravel_CRUD_5](https://github.com/Thihanaing27/laravel_CRUD/assets/152065971/7d6eae39-ac61-4d17-af09-4f4559e59452)
+![Laravel_CRUD_6](https://github.com/Thihanaing27/laravel_CRUD/assets/152065971/f20b25e1-48ff-43fa-be33-d13de1e54e14)
+![Laravel_CRUD_7](https://github.com/Thihanaing27/laravel_CRUD/assets/152065971/0d75c27e-de78-45fc-ac1b-7823c2a42d09)
+![Laravel_CRUD_8](https://github.com/Thihanaing27/laravel_CRUD/assets/152065971/8fdd6e2b-26c8-4bb0-abd8-9dbe8c3dfdb4)
+![Laravel_CRUD_1](https://github.com/Thihanaing27/laravel_CRUD/assets/152065971/0b335294-44da-4d2f-8b96-e3701cce4813)
+![Laravel_CRUD_2](https://github.com/Thihanaing27/laravel_CRUD/assets/152065971/64f2a78f-00f1-4a0d-b441-e0967d6d6860)
+![Laravel_CRUD_3](https://github.com/Thihanaing27/laravel_CRUD/assets/152065971/1268e225-ada1-4b5a-99ed-eb1b5daf4f1a)
+![Laravel_CRUD_4](https://github.com/Thihanaing27/laravel_CRUD/assets/152065971/8bdfe47a-9a91-4d90-96e8-67b8bb52b22d)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
